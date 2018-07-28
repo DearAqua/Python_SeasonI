@@ -1,0 +1,8 @@
+print("#003-Base-IDE")
+print('IDE')
+print("你甚至可以使用中文")
+print(2*8+4)
+print( "加空格不换行", end=" " )
+print( "不加空格不换行", end="" )
+print("XD")
+print( "加入内容不换行", end="内容" )
