@@ -6,7 +6,7 @@ Easy Python-programming
 ## Catalog
     - #003-IDE-Build.py
     - #003-IDE.py
-    - #004-Input-test.pyv
+    - #004-Input-test.py
     - #004-Input.py
     - #004-Input.py
     - #005-Var.py
