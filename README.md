@@ -24,3 +24,16 @@ Easy Python-programming
     - #021-ProgramingFirst.py
     - #022-open.py
     - #023-write.py
+    - #024-deal.py
+    - #025-for.py
+    - #026-format.py
+    - #028-module.py
+    - #029-easyimport.py
+    - #031-break.py
+    - #032-continue.py
+    - #033-DEF.py
+    - #034-DEF-bingo.py
+    - #035-def-def.py
+    - #036-gamesave[1].py
+    - #037-gamesave[2].py
+    - #038-gamesave[3].py
