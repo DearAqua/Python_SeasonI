@@ -39,4 +39,7 @@ Easy Python-programming
     - #037-gamesave[2].py
     - #038-gamesave[3].py
     #### GirlFrend
-    - 
+        - GF-#002-Bool.py
+        - GF-#003-While.py
+        - GF-#004-Randint.py
+        - GF-#005-play01.py
