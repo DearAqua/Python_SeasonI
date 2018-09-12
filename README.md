@@ -43,3 +43,7 @@ Easy Python-programming
         - GF-#003-While.py
         - GF-#004-Randint.py
         - GF-#005-play01.py
+    #### EasyCase
+        - pyec#001-sum.py
+        - pyec#002-sqrt.py
+        - pyec#003-X2Y.py
