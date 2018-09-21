@@ -47,3 +47,11 @@ Easy Python-programming
         - pyec#001-sum.py
         - pyec#002-sqrt.py
         - pyec#003-X2Y.py
+        - pyec#004-tri.py
+        - pyec#005-temprature.py
+        - pyec#006-bodh.py
+        - pyec#007-calendar.py
+        - pyec#008-leapyear.py
+        - pyec#009-monthPrange.py
+        - pyec#010-getYesterday.py
+        - pyec#011-ifnumber.py
