@@ -55,3 +55,7 @@ Easy Python-programming
         - pyec#009-monthPrange.py
         - pyec#010-getYesterday.py
         - pyec#011-ifnumber.py
+        - pyec#012-iswaht.py
+        - pyec#013-low2sup.py
+        - pyec#014-Chr2AscII.py
+        - pyec#015-AntOrder.py
