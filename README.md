@@ -59,3 +59,8 @@ Easy Python-programming
         - pyec#013-low2sup.py
         - pyec#014-Chr2AscII.py
         - pyec#015-AntOrder.py
+        - pyec#016-OrderAscII.py
+        - pyec#017-Calsequence.py
+        - pyec#018-Createsequence.py
+        - pyec#019-txtoutputAscII.py
+        - pyec#020-AutoCoding.py
