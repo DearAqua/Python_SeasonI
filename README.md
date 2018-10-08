@@ -64,3 +64,8 @@ Easy Python-programming
         - pyec#018-Createsequence.py
         - pyec#019-txtoutputAscII.py
         - pyec#020-AutoCoding.py
+        - pyec#021-MaxinMany.py
+        - pyec#022-Fibonacci.py
+        - pyec#023-debris.py
+        - pyec#024-debris-dict.py
+        - pyec#025-debris-str.py
