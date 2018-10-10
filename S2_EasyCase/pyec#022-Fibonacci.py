@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 29 10:31:55 2018
-
-@author: LIZY52
-"""
-
 #   递归
 def recur_fibo(n):
    if n <= 1:
