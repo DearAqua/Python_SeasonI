@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 30 10:57:53 2018
-
-@author: LIZY52
-"""
-
 #    debris-050-合并多个字符串
 print('')
 print('#    debris-050')
