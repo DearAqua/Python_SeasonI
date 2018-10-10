@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 30 09:58:03 2018
-
-@author: LIZY52
-"""
-
 #    debris-000-互换赋值
 print('#    debris-000')
 x,y = 10,20
