@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 30 10:49:41 2018
-
-@author: LIZY52
-"""
-
 #    debris-020-简化比较操作符
 print('')
 print('#    debris-020')
