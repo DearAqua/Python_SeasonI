@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 25 17:44:37 2018
-
-@author: LIZY52
-"""
 
 '''
 def cut(num):
