@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 18 09:10:16 2018
-
-@author: lizy52
-"""
 #   自定义函数
 def is_number(s):
     try:
