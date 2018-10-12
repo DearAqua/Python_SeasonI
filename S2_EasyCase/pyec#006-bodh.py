@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 13 09:24:05 2018
-
-@author: lizy52
-"""
-
-
 #   二进制
 def dec2bin(num):
     l = []
