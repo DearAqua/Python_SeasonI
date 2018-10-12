@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 25 14:36:09 2018
-
-@author: LIZY52
-"""
-    
 def txt(sentence):
     words = sentence.split()
     space = ' '
