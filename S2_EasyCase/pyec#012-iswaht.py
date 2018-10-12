@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 19 08:59:45 2018
-
-@author: LIZY52
-"""
 #    Str.is Series
 print('Test 1')
 str = "the str are all ..."
