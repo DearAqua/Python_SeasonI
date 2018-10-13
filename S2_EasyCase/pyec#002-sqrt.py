@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep  9 16:29:44 2018
-
-@author: lizy52
-"""
 #   user input
 num = float(input('input any number'))
 
