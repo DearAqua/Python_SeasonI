@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep  8 11:19:58 2018
-
-@author: lizy52
-"""
-
 #   user input
 num1 = input('input first number:')
 num2 = input('input second number:')
