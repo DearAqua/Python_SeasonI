@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 12 11:54:17 2018
-
-@author: lizy52
-"""
-
-
-
 def TT_c2f(par):
     #    celsius 2 fahrenheit
     result = (par * 1.8) + 32
