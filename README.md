@@ -5,19 +5,19 @@ Easy Python-programming
 
 ## Catalog
     #### Base
-    - #003-IDE-Build.py
-    - #003-IDE.py
-    - #004-Input-test.py
-    - #004-Input.py
-    - #004-Input.py
-    - #005-Var.py
-    - #006-Bool.py
-    - #007-If.py
-    - #008-While.py
-    - #009-randint.py
-    - #011-Notes.py
-    - #014-Number.py
-    - #015-Str.py
+        - #003-IDE-Build.py
+        - #003-IDE.py
+        - #004-Input-test.py
+        - #004-Input.py
+        - #004-Input.py
+        - #005-Var.py
+        - #006-Bool.py
+        - #007-If.py
+        - #008-While.py
+        - #009-randint.py
+        - #011-Notes.py
+        - #014-Number.py
+        - #015-Str.py
     - #016-list.py
     - #017-tuple.py
     - #018-dictionary.py
