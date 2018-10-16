@@ -18,15 +18,15 @@ Easy Python-programming
         - #011-Notes.py
         - #014-Number.py
         - #015-Str.py
-    - #016-list.py
-    - #017-tuple.py
-    - #018-dictionary.py
-    - #019-set.py
-    - #021-ProgramingFirst.py
-    - #022-open.py
-    - #023-write.py
-    - #024-deal.py
-    - #025-for.py
+        - #016-list.py
+        - #017-tuple.py
+        - #018-dictionary.py
+        - #019-set.py
+        - #021-ProgramingFirst.py
+        - #022-open.py
+        - #023-write.py
+        - #024-deal.py
+        - #025-for.py
     - #026-format.py
     - #028-module.py
     - #029-easyimport.py
