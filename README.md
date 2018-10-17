@@ -27,9 +27,9 @@ Easy Python-programming
         - #023-write.py
         - #024-deal.py
         - #025-for.py
-    - #026-format.py
-    - #028-module.py
-    - #029-easyimport.py
+        - #026-format.py
+        - #028-module.py
+        - #029-easyimport.py
     - #031-break.py
     - #032-continue.py
     - #033-DEF.py
