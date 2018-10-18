@@ -30,8 +30,8 @@ Easy Python-programming
         - #026-format.py
         - #028-module.py
         - #029-easyimport.py
-    - #031-break.py
-    - #032-continue.py
+        - #031-break.py
+        - #032-continue.py
     - #033-DEF.py
     - #034-DEF-bingo.py
     - #035-def-def.py
