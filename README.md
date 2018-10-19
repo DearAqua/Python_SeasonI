@@ -32,7 +32,7 @@ Easy Python-programming
         - #029-easyimport.py
         - #031-break.py
         - #032-continue.py
-    - #033-DEF.py
+        - #033-DEF.py
     - #034-DEF-bingo.py
     - #035-def-def.py
     - #036-gamesave[1].py
