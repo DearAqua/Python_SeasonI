@@ -69,7 +69,3 @@ Easy Python-programming
         - pyec#023-debris.py
         - pyec#024-debris-dict.py
         - pyec#025-debris-str.py
-
-2018-10-09 hex 2 hex 2 ASCII
-2018-10-14 Hex 2 Dec
-2018-10-14 Dec 2 ASCII
