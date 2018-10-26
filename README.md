@@ -69,3 +69,5 @@ Easy Python-programming
         - pyec#023-debris.py
         - pyec#024-debris-dict.py
         - pyec#025-debris-str.py
+
+-3 min coding
