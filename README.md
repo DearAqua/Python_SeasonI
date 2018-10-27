@@ -71,3 +71,4 @@ Easy Python-programming
         - pyec#025-debris-str.py
 
 -3 min coding
+惨遭禁言今天，淦
