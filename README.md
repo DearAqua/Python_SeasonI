@@ -2,6 +2,7 @@
 
 ## Description
 Easy Python-programming
+End 2018-11-25
 
 ## Catalog
     #### Base
